@@ -1,0 +1,26 @@
+grootheid,eenheid,symbool,factor_naar_SI,macht_massa,macht_lengte,macht_tijd,afgeleid,definitie_SI
+massa,kilogram,kg,1,1,0,0,nee,kg
+massa,gram,g,0.001,1,0,0,nee,kg
+massa,ton,t,1000,1,0,0,nee,kg
+massa,pond,lb,0.45359237,1,0,0,nee,kg
+tijd,seconde,s,1,0,0,1,nee,s
+tijd,minuut,min,60,0,0,1,nee,s
+tijd,uur,h,3600,0,0,1,nee,s
+lengte,meter,m,1,0,1,0,nee,m
+lengte,millimeter,mm,0.001,0,1,0,nee,m
+lengte,centimeter,cm,0.01,0,1,0,nee,m
+lengte,kilometer,km,1000,0,1,0,nee,m
+lengte,inch,in,0.0254,0,1,0,nee,m
+lengte,voet,ft,0.3048,0,1,0,nee,m
+oppervlakte,vierkante meter,m2,1,0,2,0,ja,m^2
+oppervlakte,vierkante millimeter,mm2,0.000001,0,2,0,ja,m^2
+oppervlakte,vierkante centimeter,cm2,0.0001,0,2,0,ja,m^2
+oppervlakte,vierkante voet,ft2,0.09290304,0,2,0,ja,m^2
+kracht,newton,N,1,1,1,-2,ja,kg*m/s^2
+kracht,kilonewton,kN,1000,1,1,-2,ja,kg*m/s^2
+kracht,pondkracht,lbf,4.4482216152605,1,1,-2,ja,kg*m/s^2
+druk,pascal,Pa,1,1,-1,-2,ja,kg/(m*s^2)
+druk,kilopascal,kPa,1000,1,-1,-2,ja,kg/(m*s^2)
+druk,megapascal,MPa,1000000,1,-1,-2,ja,kg/(m*s^2)
+druk,bar,bar,100000,1,-1,-2,ja,kg/(m*s^2)
+druk,pond per vierkante inch,psi,6894.757293168,1,-1,-2,ja,kg/(m*s^2)
