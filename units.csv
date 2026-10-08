@@ -1,7 +1,7 @@
 grootheid,eenheid,symbool,factor_naar_SI,macht_massa,macht_lengte,macht_tijd,afgeleid,definitie_SI
 massa,kilogram,kg,1,1,0,0,nee,kg
 massa,gram,g,0.001,1,0,0,nee,kg
-massa,ton,t,1000,1,0,0,nee,kg
+massa,ton,t,1200,1,0,0,nee,kg
 massa,pond,lb,0.45359237,1,0,0,nee,kg
 tijd,seconde,s,1,0,0,1,nee,s
 tijd,minuut,min,60,0,0,1,nee,s
